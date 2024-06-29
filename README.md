@@ -1,13 +1,13 @@
-## Mvast Thermods 
+## Mvast Thermods
 
-__Thermal Modification Systemlessy__
+__Thermal Modification Systemlessly | Don't play games while charging, use a cooling fan, any damage is beyond my responsibility__
 
 ### Feature
 
-- Patch Thermal Systemlessy 
-- Temp limit 36-50°
+- Patch Thermal Systemlessy
+- Block sensors gpu, cpu, by mmc
 - Universal (Mediatek/Snapdragon)
 
 ### Requirements 
 
-- Magisk 23+ / Kernelsu / Apatch
+- Magisk 23+ / Kernelsu
