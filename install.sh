@@ -24,7 +24,7 @@ ui_print " ━━━━━━━━━━━━━━━━━━━━━━━
 sleep 1.5
 ui_print " Mvast is always your choice"
 sleep 1.5
-ui_print " Thermods Long-Term"
+ui_print " Thermods Long-Term Extreme"
 ui_print " Powered by REXX FLOSS™"
 ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 sleep 1.5
